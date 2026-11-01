@@ -1,3 +1,4 @@
+[![Playwright Tests](https://github.com/Mani-reddy2668-avit/car-parking-qa-automation/actions/workflows/playwright.yml/badge.svg)](https://github.com/Mani-reddy2668-avit/car-parking-qa-automation/actions/workflows/playwright.yml)
 # Car Parking Slot Booking System — Playwright Automation
 
 ## 1. Project Overview
